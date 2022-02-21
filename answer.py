@@ -1,7 +1,7 @@
 a = input('')
 b = input('')
 c = input('')
-task1 = float(a**2 + b**2)
+task1 = a**2 + b**2
 task2 = 3*b - 4
 task3 = task1 / task2
 task4 = 4*c**5 / 6
